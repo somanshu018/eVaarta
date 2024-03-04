@@ -1,0 +1,26 @@
+.outer-wrapper{
+    color:white;
+    /* background-color:rgb(255, 255, 255); */
+    /* height:95vH;
+    width:80vW; */
+}
+
+.connected{
+    color:rgb(97, 155, 95);
+}
+
+.btn{
+    margin-top:3%;
+    background-color:rgb(75, 180, 75);
+    height:40px;
+    width:15%;
+    border-radius:6px;
+    letter-spacing:1px;
+    font-weight:900;
+    font-size:1.25em;
+}
+
+.send{
+    margin-right:2%;
+}
+

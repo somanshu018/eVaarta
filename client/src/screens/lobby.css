@@ -1,0 +1,62 @@
+.wrapper{
+    border:3px solid rgb(75, 180, 75);
+    height: 375px;
+}
+
+.container{
+    margin-top:10%; 
+} 
+
+.header{
+    border-bottom: 2px solid rgb(75, 180, 75);
+}
+
+.logo,.name{
+    display:inline;
+}
+
+.logo{
+    margin-top: 5%;
+    margin-right: 3%;
+    height: 50px;
+}
+
+.name{
+    margin-bottom: 20px;
+    align-self: center;
+}
+
+.lobby-head{
+    margin-bottom:5%;
+    color:rgb(65, 146, 65);
+}
+
+.inp{
+    width:60%;
+    height:2rem;
+    border-radius: 10px;
+    margin-top:1%;
+}
+
+.email{
+    margin-bottom:3%;
+}
+
+.join{
+    background-color:rgb(75, 180, 75);
+    margin-top:5%;
+    height:33px;
+    width:15%;
+    border-radius:6px;
+    font-weight:bold;
+    font-size:medium;
+}
+
+.join:hover{
+    opacity:0.9;
+    height: 32px;
+}
+
+.join:active{
+    height: 30px;
+}
